@@ -1,6 +1,6 @@
 {
   "name": "react-native-thermal-printer-ahtapot",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Printer",
   "source": "./src/index.tsx",
   "main": "./lib/commonjs/index.js",
