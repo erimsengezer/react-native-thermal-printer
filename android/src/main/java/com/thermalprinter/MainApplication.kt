@@ -1,4 +1,4 @@
-package com.yourproject
+package com.thermalprinter
 
 import android.app.Application
 import com.facebook.react.ReactApplication
